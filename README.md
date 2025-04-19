@@ -43,7 +43,7 @@
 
 ### 🛠️ Herramientas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,discord" />
 </p>
 
 ### 🎨 Diseño:
