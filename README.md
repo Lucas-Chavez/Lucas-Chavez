@@ -3,7 +3,7 @@
 
 ## Sobre mí 👨‍💻
 
-- 🎓 Estudiante de **Tecnicatura en Programación** en la [Universidad Tecnológica Nacional (UTN)](https://utn.edu.ar)  
+- 🎓 **Tecnico Universitario en Programación** en la [Universidad Tecnológica Nacional (UTN)](https://utn.edu.ar)  
 - 📍 Vivo en **Mendoza, Argentina**  
 - 💼 Actualmente **sin trabajo**, enfocado en seguir aprendiendo y desarrollando proyectos personales  
 - 💡 Me apasiona la programación, la tecnología y el diseño simple pero funcional  
